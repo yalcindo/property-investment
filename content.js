@@ -1,0 +1,1 @@
+module.exports = "Well this is content";
